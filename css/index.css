@@ -1,0 +1,52 @@
+p.sub-title1 {
+    color: aqua;
+}
+p#sub-title2 {
+    color: salmon;
+}
+
+.company{
+    color: sienna;
+    font-size: 20pt;
+}
+
+.big{
+    text-align: center;
+    color: snow;
+    background-color: slateblue;
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+}
+
+.big2{
+    text-align: center;
+    color: snow;
+    background-color: steelblue;
+    font-size: 25pt;
+    height: 100px;
+    width: 100px;
+}
+
+.big3{
+    text-align: center;
+    color: snow;
+    background-color: brown;
+    font-size: 20pt;
+    height: 100px;
+    width: 100px;
+}
+.big4{
+    display: inline-block;
+    color: snow;
+    background-color: springgreen;
+    text-align: center;
+    height: 100px;
+    width: 100px;
+}
+
+h1 {
+    color: red;
+    font-size: 50pt;
+    font-weight: bold;
+}
